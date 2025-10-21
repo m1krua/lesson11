@@ -1,0 +1,75 @@
+
+.dress {
+    display: flex;
+    flex-direction: column;
+    margin-top: 140px;
+}
+
+.h22 {
+ display: flex;
+ justify-content: center;
+ padding-bottom: 35px;
+}
+
+.top-sections h2 {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+
+.filter button {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 5px 15px ;
+}
+
+.cards img {
+    width: 312px;
+    height: 400px;
+}
+
+.price p {
+    color: gray;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 13px;
+}
+
+.price-gray {
+    display: flex;
+    
+}
+
+.card-btn {
+    padding-top: 18px;
+    margin-bottom: 24px;
+}
+
+.card-btn p {
+    font-weight: 600;
+}
+
